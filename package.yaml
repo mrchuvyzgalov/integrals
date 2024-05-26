@@ -57,3 +57,6 @@ tests:
     - -with-rtsopts=-N
     dependencies:
     - integrals
+    - tasty
+    - tasty-hunit
+    - extra
